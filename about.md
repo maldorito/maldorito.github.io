@@ -9,7 +9,7 @@ I'm a developer (mostly) based in Kannapolis, North Carolina. I live there with 
 
 ### More Information
 
-I also like to play the guitar, and I record a podcast with my friends in my spare time: [The Inner Sanctum Podcast](http://bit.ly/innersanctumpodcast)
+I also like to play the guitar, and I record a [podcast](http://bit.ly/innersanctumpodcast) with my friends in my spare time.
 
 ### Contact me
 
