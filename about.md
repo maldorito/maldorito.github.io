@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+I'm a developer (mostly) based in Kannapolis, North Carolina. I live there with my wife, who I constantly try to make laugh through my comedic antics and frequent referential anecdotes. She claims I'm funny (most of the time) 😅.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also like to play the guitar, and I record a podcast with my friends in my spare time: [The Inner Sanctum Podcast](http://bit.ly/innersanctumpodcast)
 
 ### Contact me
 
