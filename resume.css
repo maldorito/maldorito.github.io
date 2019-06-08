@@ -1,0 +1,27 @@
+body {
+  font-size: 14px;
+  padding-top: 4.5em;
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#header {
+  text-align: center;
+}
+
+span {
+  font-weight: bold;
+}
+
+ul {
+  padding-left: 2.1em;
+  margin-top: -15px;
+}
+
+ul.shifted {
+  padding-left: 3.4em;
+}
