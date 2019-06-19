@@ -13,4 +13,4 @@ I also like to play the guitar, and I record a [podcast](http://bit.ly/innersanc
 
 ### Contact me
 
-[alexdaniel1992@gmail.com](mailto:alexdaniel1992@gmail.com)
+alexdaniel1992(at)gmail.com
