@@ -20,7 +20,9 @@ I assisted with:
 
 sidroth.org Website Homepage
 ![SidRoth.org Homepage](/images/sidrothscreenshot.jpg)
+
 ---
+
 ## [NTN Math website](www.ntnmath.com)
 
 This was my first major web project, where I was the sole developer handling the re-design of the company website. 
