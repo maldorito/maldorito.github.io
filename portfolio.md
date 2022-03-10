@@ -5,7 +5,7 @@ permalink: /portfolio/
 published: true
 ---
 
-## [It's Supernatural website](sidroth.org)
+## [It's Supernatural website](https://sidroth.org)
 
 This was part of a large collaborative effort with the Messianic Vision team and an outside media group. We worked together to rebrand the website in 2021, and after many revisions and months of hard work we were able to launch this modern and mobile-friendly re-design.
 
