@@ -21,7 +21,7 @@ I assisted with:
 sidroth.org Website Homepage
 ![SidRoth.org Homepage](/images/sidrothscreenshot.jpg)
 
----
+___
 
 ## [NTN Math website](www.ntnmath.com)
 
