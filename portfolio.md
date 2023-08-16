@@ -16,6 +16,9 @@ Here is how I contributed to the team during that time:
 - Refining block code according to Figma designs.
 - Performing QA testing on site functionality, accessibility, and load time.
 
+toyinsider.com Homepage
+![ToyInsider Homepage](/images/toyinsiderscreenshot.jpg)
+
 ___
 
 ## [It's Supernatural website](https://sidroth.org)
@@ -31,7 +34,7 @@ I assisted with:
 - Plugin compatibility testing
 - Payment processor testing
 
-sidroth.org Website Homepage
+sidroth.org Homepage
 ![SidRoth.org Homepage](/images/sidrothscreenshot.jpg)
 
 ___
