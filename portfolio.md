@@ -16,7 +16,8 @@ Here is how I contributed to the team during that time:
 - Refining block code according to Figma designs.
 - Performing QA testing on site functionality, accessibility, and load time.
 
-toyinsider.com Homepage
+![Code Samples](https://github.com/maldorito/codesamples)
+
 ![ToyInsider Homepage](/images/toyinsiderscreenshot.jpg)
 
 ___
@@ -34,7 +35,6 @@ I assisted with:
 - Plugin compatibility testing
 - Payment processor testing
 
-sidroth.org Homepage
 ![SidRoth.org Homepage](/images/sidrothscreenshot.jpg)
 
 ___
@@ -50,5 +50,4 @@ This project entailed:
 - Writing and documenting code to suit the layout and design needs for the site. 
 - Making revisions to the site as management requested changes.
 
-Website Homepage Screenshot
 ![NTN Math Homepage](/images/ntnmathscreenshot.jpg)
