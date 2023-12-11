@@ -16,7 +16,7 @@ Here is how I contributed to the team during that time:
 - Refining block code according to Figma designs.
 - Performing QA testing on site functionality, accessibility, and load time.
 
-[Code Samples](https://github.com/maldorito/codesamples)
+[Code Samples](https://github.com/maldorito/codesamples/tree/main/toyinsider)
 
 ![ToyInsider Homepage](/images/toyinsiderscreenshot.jpg)
 
