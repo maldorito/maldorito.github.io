@@ -5,9 +5,9 @@ permalink: /codesamples/
 published: true
 ---
 
-## [Code Samples GitHub Repo](https://github.com/maldorito/codesamples)
+## [GitHub Repo](https://github.com/maldorito/codesamples)
 
-Here are some code samples from previous workplace projects that I no longer have repo access to but still want to showcase.
+Here are some code samples from previous workplace projects I want to showcase.
 
 ### ToyInsider ACF blocks
 
