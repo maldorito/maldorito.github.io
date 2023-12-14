@@ -11,7 +11,13 @@ Here are some code samples from previous workplace projects I want to showcase.
 
 ### ToyInsider ACF blocks
 
+
+
 #### Ad Block
+
+| Ad Block #1 | Ad Block #2 | Ad Block #3 |
+|---|---|---|
+| ![Ad block 1](/images/adblock1.webp) | ![Ad block 2](/images/adblock2.webp) | ![Ad block 3](/images/adblock3.webp) |
 
 ![Ad block 1](/images/adblock1.webp)
 ![Ad block 2](/images/adblock2.webp)
