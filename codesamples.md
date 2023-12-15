@@ -13,7 +13,7 @@ published: true
 
 
 
-#### Rotating Ad Block
+#### Rotating Ad Block - [PHP](https://github.com/maldorito/codesamples/blob/main/toyinsider/adblock/adblock.php) - [SASS](https://github.com/maldorito/codesamples/blob/main/toyinsider/adblock/style.scss)
 
 ![Rotating Ad Block #1](/images/rotatingadblock1.gif)
 
