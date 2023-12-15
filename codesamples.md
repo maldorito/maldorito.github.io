@@ -15,9 +15,9 @@ published: true
 
 #### Rotating Ad Block
 
-![Rotating Ad Block #1](/images/Rotating%20Ad%20Block%20#1.gif)
+![Rotating Ad Block #1](/images/rotatingadblock1.gif)
 
-![Rotating Ad Block #2](/images/Rotating%20Ad%20Block%20#2.gif)
+![Rotating Ad Block #2](/images/rotatingadblock2.gif)
 
 PHP
 ```php
