@@ -7,7 +7,7 @@ published: true
 
 > Below are some code samples from previous workplace projects I want to showcase.
 
-## [GitHub Repo](https://github.com/maldorito/codesamples)
+## [GitHub Repo](https://github.com/maldorito/codesamples/tree/main/toyinsider)
 
 ### ToyInsider ACF blocks
 
@@ -19,7 +19,7 @@ published: true
 
 ![Rotating Ad Block #2](/images/rotatingadblock2.gif)
 
-PHP
+### [PHP](https://github.com/maldorito/codesamples/blob/main/toyinsider/adblock/adblock.php)
 ```php
 <?php
 /**
@@ -78,7 +78,7 @@ $apb_shortcode    = str_replace( 'alignnone', 'aligncenter', $apb_shortcode );
 </div>
 ```
 
-SASS
+### [SASS](https://github.com/maldorito/codesamples/blob/main/toyinsider/adblock/style.scss)
 ```sass
 //----------------------------------------
 // Block - Ad block Styles, FRONTEND
