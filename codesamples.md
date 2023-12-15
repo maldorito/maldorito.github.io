@@ -5,20 +5,24 @@ permalink: /codesamples/
 published: true
 ---
 
-## [GitHub Repo](https://github.com/maldorito/codesamples)
+> Below are some code samples from previous workplace projects I want to showcase.
 
-Here are some code samples from previous workplace projects I want to showcase.
+## [GitHub Repo](https://github.com/maldorito/codesamples)
 
 ### ToyInsider ACF blocks
 
 
 
-#### Ad Block
+#### Rotating Ad Block
 
-| #### Image Previews |  |  |
+| **Image Previews** |  |  |
 |---|---|---|
-| ![Ad block 1](/images/adblock1.webp) | &nbsp; | &nbsp; |
+|  | ![Ad block 1](/images/adblock1.webp) | &nbsp; |
 | ![Ad block 2](/images/adblock2.webp) | ![Ad block 3](/images/adblock3.webp) | &nbsp; |
+
+![Rotating Ad Block #1](https://app.screencast.com/L8W8I1MSAbGxM)
+
+![Rotating Ad Block #2](https://app.screencast.com/jyP4yXaTUkczL)
 
 PHP
 ```php
