@@ -110,6 +110,8 @@ SASS
 }
 ```
 
+___
+
 #### Inquiries Block
 
 ![Inquiries block](/images/inquiriesblock.webp)
@@ -309,6 +311,8 @@ SASS
 	}
 }
 ```
+
+___
 
 #### Newsletter Block
 
@@ -569,6 +573,8 @@ SASS
 }
 ```
 
+___
+
 #### Related Mini Block
 
 ![Related Mini block](/images/relatedminiblock.webp)
@@ -698,6 +704,8 @@ SASS
 	}
 }
 ```
+
+___
 
 #### Three Latest Posts Block
 
