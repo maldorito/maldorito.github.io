@@ -15,15 +15,6 @@ published: true
 
 #### Rotating Ad Block
 
-| **Image Previews** |  |  |
-|---|---|---|
-|  | ![Ad block 1](/images/adblock1.webp) | &nbsp; |
-| ![Ad block 2](/images/adblock2.webp) | ![Ad block 3](/images/adblock3.webp) | &nbsp; |
-
-![Rotating Ad Block #1](https://app.screencast.com/L8W8I1MSAbGxM)
-
-![Rotating Ad Block #2](https://app.screencast.com/jyP4yXaTUkczL)
-
 ![Rotating Ad Block #1](/images/Rotating%20Ad%20Block%20#1.gif)
 
 ![Rotating Ad Block #2](/images/Rotating%20Ad%20Block%20#2.gif)
