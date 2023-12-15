@@ -24,6 +24,10 @@ published: true
 
 ![Rotating Ad Block #2](https://app.screencast.com/jyP4yXaTUkczL)
 
+![Rotating Ad Block #1](/images/Rotating%20Ad%20Block%20#1.gif)
+
+![Rotating Ad Block #2](/images/Rotating%20Ad%20Block%20#2.gif)
+
 PHP
 ```php
 <?php
