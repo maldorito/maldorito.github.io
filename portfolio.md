@@ -41,7 +41,7 @@ ___
 
 ## [NTN Math website](https://web.archive.org/web/20180718080232/http://www.ntnmath.com/)
 
-> Archive of design link, as design has since been updated after 2020.
+(Note: Archive of site link, as design has since been updated after 2020.)
 
 This was my first full site web project, where I was the sole developer handling the re-design of the company website. 
 
