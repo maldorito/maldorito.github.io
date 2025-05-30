@@ -19,12 +19,7 @@ span {
 
 ul {
   padding-left: 2.1em;
-  margin-top: -15px;
-}
-
-li > ul {
-  padding-left: 2.1em;
-  /*margin-top: -15px;*/
+  margin-top: 0px;
 }
 
 ul.shifted {
