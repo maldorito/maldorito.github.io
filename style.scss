@@ -287,3 +287,20 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.wrapper-hire {
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  margin-top: 2em;
+}
+
+.hire-bar {
+  padding: 1em 0;
+  text-align: center;
+
+  p {
+    margin: 0;
+    font-size: 0.95em;
+    color: #555;
+  }
+}
