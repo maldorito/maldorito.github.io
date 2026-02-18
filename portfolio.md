@@ -5,16 +5,29 @@ permalink: /portfolio/
 published: true
 ---
 
+## Razorfrog Web Design
+
+A remote WordPress development role focused on client site maintenance and rebuilds. The client work is under NDA, but here's what I was working on.
+
+A good chunk of the work involved keeping client sites healthy — plugin and theme updates through WP admin and ManageWP, with manual visual regression testing before and after to make sure nothing broke in the process. I also did some full legacy site rebuilds using the Bricks builder theme, Automatic CSS, and SASS, which was a fun change of pace from straight custom development.
+
+___
+
+## EpicNotion Inc
+
+A web developer role at a Charlotte-based digital agency where I supported a range of WordPress and Shopify client sites. Most of the client work here falls under NDA, so I'm not able to showcase specific projects — but here's a summary of the kind of work I was doing day-to-day.
+
+I collaborated with a Technical Lead and Account Managers through Agile sprint practices, handling everything from routine maintenance and SEO improvements to custom ACF and React Gutenberg block development. A big part of the role was also evaluating sites and putting together actionable recommendations based on performance, accessibility, and best practices data — which meant I was constantly digging into Lighthouse reports and figuring out where things could be better.
+
+___
+
+## WebDevStudios
+
 ## [ToyInsider website](https://toyinsider.com)
 
-This was my first site build while working at WebDevStudios, which my team worked on in the first quarter of 2023. Starting from the design handoff to my team to the successful launch for the client, we completed the site in 3 months. It was an intense time with lots of work, but my skills as a developer grew immensely during this project.
+This was my first site build while working at WebDevStudios, and honestly one of the most intense projects I've been a part of. My team took it from design handoff all the way to a successful client launch in about three months.
 
-Here is how I contributed to the team during that time:
-
-- Creating and styling numerous WordPress blocks.
-- Building out page templates.
-- Refining block code according to Figma designs.
-- Performing QA testing on site functionality, accessibility, and load time.
+My main contributions were building out ACF blocks and page templates from Figma designs, then putting them through their paces in QA — testing for functionality, accessibility, and load times across devices. That whole project was a big growth moment for me as a developer.
 
 [Code Samples](https://github.com/maldorito/codesamples/tree/main/toyinsider)
 
@@ -24,16 +37,9 @@ ___
 
 ## [It's Supernatural website](https://sidroth.org)
 
-This was part of a large collaborative effort with the Messianic Vision team and an outside media group. We worked together to re-brand the website in 2021, and after many revisions and months of hard work we were able to launch this modern and mobile friendly re-design.
+This was a large collaborative rebrand of the Messianic Vision website, done in partnership with an outside media group in 2021. It was the first major WordPress site I was part of maintaining and working on, and after many rounds of revisions we launched a modern, mobile-friendly redesign that the team was really proud of.
 
-This was the first major WordPress site I was a part of maintaining and working on.
-
-I assisted with:
-
-- Design feedback and review
-- User Acceptance Testing
-- Plugin compatibility testing
-- Payment processor testing
+My role leaned more toward the feedback and testing side of things — design review, user acceptance testing, plugin compatibility, and payment processor testing. It gave me a solid foundation in what it actually takes to ship a large site safely, and made me a much more thorough tester going forward.
 
 ![SidRoth.org Homepage](/images/sidrothscreenshot.jpg)
 
@@ -41,15 +47,10 @@ ___
 
 ## [NTN Math website](https://web.archive.org/web/20180718080232/http://www.ntnmath.com/)
 
-(Note: Archive of site link, as design has since been updated after 2020.)
+(Note: Archive link — the design has since been updated after 2020.)
 
-This was my first full site web project, where I was the sole developer handling the re-design of the company website. 
+This was my first full site project, where I was the sole developer on a full redesign of the company website. I worked directly with management to restructure the site hierarchy and curriculum media, then built the whole thing out using Bootstrap, HTML, CSS, and JavaScript.
 
-This project entailed: 
-
-- Working with management to structure the new hierarchy of the website and curriculum media. 
-- Utilizing the bootstrap framework to set up the backbone of the site.
-- Writing and documenting code to suit the layout and design needs for the site. 
-- Making revisions to the site as management requested changes.
+It was a real learn-as-you-go experience — working through design revisions, documenting my code as I went, and figuring out how to translate what management had in their heads into something that actually worked on screen. Looking back, it set a lot of habits I still carry today.
 
 ![NTN Math Homepage](/images/ntnmathscreenshot.jpg)
