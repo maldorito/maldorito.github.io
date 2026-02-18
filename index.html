@@ -2,16 +2,34 @@
 layout: default
 ---
 
+<div class="intro">
+  <p>I'm a frontend developer with over a decade of experience building and maintaining websites. My wheelhouse is WordPress — custom ACF and Gutenberg blocks, legacy code refactoring, and making sure everything ships clean across every device. Check out my <a href="{{ site.baseurl }}/portfolio/">portfolio</a>, <a href="{{ site.baseurl }}/codesamples/">code samples</a>, or <a href="{{ site.baseurl }}/resume/">resume</a> — or just <a href="mailto:alexdaniel1992@gmail.com">get in touch</a>.</p>
+</div>
+
+<hr>
+
+<div class="featured-links">
+  <h2>Work</h2>
+  <ul>
+    <li><a href="{{ site.baseurl }}/portfolio/">Portfolio</a> — projects I've contributed to</li>
+    <li><a href="{{ site.baseurl }}/codesamples/">Code Samples</a> — actual code from real client work</li>
+    <li><a href="{{ site.baseurl }}/resume/">Resume</a> — full employment history</li>
+  </ul>
+</div>
+
+<hr>
+
+<h2>Blog</h2>
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
+      
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+      
       <div class="entry">
         {{ post.excerpt }}
       </div>
-
+      
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
